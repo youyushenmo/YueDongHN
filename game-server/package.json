@@ -3,7 +3,7 @@
   "version": "0.3.0",
   "private": false,
   "dependencies": {
-  "express": "2.5.2"
+  "express": "4.17.1"
   , "connect": ">=0.0.1"
   , "socket.io": ">=0.9.6"
   , "generic-pool": "*"
